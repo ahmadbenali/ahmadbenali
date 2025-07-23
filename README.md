@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmad ali smairat</h1>
-<h3 align="center">a guy who love IT things from jordna</h3>
+<h3 align="center">a guy who love IT things from jordan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadbenali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadbenali" /> </p>
 
